@@ -4,6 +4,9 @@
 
 Tic Tac Toe is a classic two-player web-based game built using HTML, CSS, and JavaScript. The game provides an interactive interface where players take turns marking X and O on a 3×3 grid. The application automatically detects wins, draws, and allows players to restart the game.
 
+## Live link
+link: https://tic-tac-toe-game-qv8f.vercel.app/
+
 ## Features
 
 * Two-player gameplay
